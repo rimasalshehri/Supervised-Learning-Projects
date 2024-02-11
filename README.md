@@ -1,2 +1,2 @@
 # Supervised-Learning-Projects
-here you will find multiple projects done on Supervised Learning
+here you will find multiple projects done on Supervised Learning and there datasets
